@@ -33,7 +33,7 @@ Participants of the network are connected by:
 1.   Setup from scratch like described in setupRpi3_asRouter_openwrt_ext4.sh
 2.   Burn image to SD. Follow install_config_1.sh
 -  Setup as client. Follow setup_as_client_2.sh
--  Setup as server. Foloow setup_as_server_2.sh
+-  Setup as server. Follow setup_as_server_2.sh
 3.   Setup a Linux computer to run client software like claws-mail, hexchat, mumble
 
 ![setup](https://github.com/marl2en/rpirouter/blob/main/raspberry_setup.png)
