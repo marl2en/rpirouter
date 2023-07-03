@@ -37,3 +37,25 @@ Participants of the network are connected by:
 3.   Setup a Linux computer to run client software like claws-mail, hexchat, mumble
 
 ![setup](https://github.com/marl2en/rpirouter/blob/main/raspberry_setup.png)
+
+
+# Screenshots
+
+![overview](https://github.com/marl2en/rpirouter/blob/main/overview.png)
+
+![adblocker](https://github.com/marl2en/rpirouter/blob/main/adblocker.png)
+
+![chrony](https://github.com/marl2en/rpirouter/blob/main/chrony.png)
+
+![cpu](https://github.com/marl2en/rpirouter/blob/main/collectd_cpu.png)
+
+![interfaces](https://github.com/marl2en/rpirouter/blob/main/collectd_interfaces.png)
+
+![thermal](https://github.com/marl2en/rpirouter/blob/main/collectd_thermal.png)
+
+
+![firewall](https://github.com/marl2en/rpirouter/blob/main/firewall.png)
+
+
+![firewall-rules](https://github.com/marl2en/rpirouter/blob/main/firewall-rules.png)
+
